@@ -2,9 +2,9 @@ Authur Kshitj Srivastava
 A conversational AI chatbot built using LangChain, Mistral AI, and Python that allows users to interact with different AI personalities.
 
 Features
-😠 Angry AI Mode
-😂 Funny AI Mode
-😔 Sad AI Mode
+ -Angry AI Mode
+ -Funny AI Mode
+ -Sad AI Mode
 Dynamic personality switching
 Context-aware conversations
 Prompt engineering with System Messages
